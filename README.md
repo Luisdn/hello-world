@@ -1,2 +1,3 @@
 # hello-world
-Principiante aprendiendo
+Principiante aprendiendo.
+Voy siguiendo el tutorial...
